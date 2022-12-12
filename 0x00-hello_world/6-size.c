@@ -2,8 +2,10 @@
 
 /**
  * main - Entry point
- * Return : 0 always
- * description - the starting point of the program
+ * Description: The starting point of the program
+ * Return: 0 Always
+ *
+ *
  */
 
 int main(void)

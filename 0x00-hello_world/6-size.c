@@ -1,17 +1,12 @@
 #include <stdio.h>
+
 /**
- *
- * * main - Entry point
- *
- * *
- *
- * * Return: 0 always
- *
- * 
+ * main - Entry point
+ * Return : 0 always
+ * description - the starting point of the program
  */
 
 int main(void)
-
 {
 
 	printf("Size of a char: %i byte(s)\n", sizeof(char));
